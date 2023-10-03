@@ -2,5 +2,12 @@
 <hr>
 Api build with express.js
 
-## Code?
-If you wanna see my code, please move with branch's there is my code
+## Commands?
+some commands are: 
+```
+docker <b>build</b> -t my-image:tag
+```
+
+```
+docker image ls
+```
